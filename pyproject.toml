@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_checkpointloader_ext"
+description = ""
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/shuanshuan/ComfyUI_CheckPointLoader_Ext"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_CheckPointLoader_Ext"
+Icon = ""
